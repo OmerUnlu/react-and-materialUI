@@ -1,0 +1,19 @@
+{
+  "files": {
+    "main.css": "/react-and-materialUI/static/css/main.ffe34ec7.css",
+    "main.js": "/react-and-materialUI/static/js/main.cc49f826.js",
+    "static/js/787.c95d9f7b.chunk.js": "/react-and-materialUI/static/js/787.c95d9f7b.chunk.js",
+    "static/media/ccsharp.png": "/react-and-materialUI/static/media/ccsharp.f26a2bfd94883d8804b9.png",
+    "static/media/bootstrap5.png": "/react-and-materialUI/static/media/bootstrap5.5fcccfc349632dc75191.png",
+    "static/media/kompleweb.jpg": "/react-and-materialUI/static/media/kompleweb.5a75ec703847234e4e9d.jpg",
+    "static/media/angular.jpg": "/react-and-materialUI/static/media/angular.1671348309817be31d87.jpg",
+    "index.html": "/react-and-materialUI/index.html",
+    "main.ffe34ec7.css.map": "/react-and-materialUI/static/css/main.ffe34ec7.css.map",
+    "main.cc49f826.js.map": "/react-and-materialUI/static/js/main.cc49f826.js.map",
+    "787.c95d9f7b.chunk.js.map": "/react-and-materialUI/static/js/787.c95d9f7b.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.ffe34ec7.css",
+    "static/js/main.cc49f826.js"
+  ]
+}
